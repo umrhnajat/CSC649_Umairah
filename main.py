@@ -10,3 +10,4 @@ else:
 
     print("Word count:", word_count)
     print("Character count (including spaces):", character_count)
+    print("Thank you very much.")
